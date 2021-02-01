@@ -1,3 +1,3 @@
-# Personal Site
+# Personal Portfolio Site Template
 
-Just my personal site, that is all
+I put together a simple personal portfolio website (https://wlotherington.com/) using `HTML`/`CSS`/`CSS Grid` that allows for both major highlight projects and smaller exercise projects.
